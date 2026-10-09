@@ -1,3 +1,0 @@
-D:\Code_Tool\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\TCPServer.dir/objects.a
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\TCPServer.dir/objects.a @CMakeFiles\TCPServer.dir\objects1.rsp
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\TCPServer.dir/objects.a -Wl,--no-whole-archive -o TCPServer.exe -Wl,--out-implib,libTCPServer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TCPServer.dir\linkLibs.rsp

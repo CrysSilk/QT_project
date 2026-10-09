@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icons/command-runner.bmp">lcon.bmp</file>
+    </qresource>
+</RCC>

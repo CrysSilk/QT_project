@@ -1,3 +1,0 @@
-D:\Code_Tool\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\QLabel.dir/objects.a
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\QLabel.dir/objects.a @CMakeFiles\QLabel.dir\objects1.rsp
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\QLabel.dir/objects.a -Wl,--no-whole-archive -o QLabel.exe -Wl,--out-implib,libQLabel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QLabel.dir\linkLibs.rsp

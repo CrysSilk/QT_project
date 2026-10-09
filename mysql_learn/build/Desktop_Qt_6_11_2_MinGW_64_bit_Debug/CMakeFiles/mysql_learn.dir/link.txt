@@ -1,3 +1,0 @@
-D:\Code_Tool\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\mysql_learn.dir/objects.a
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\mysql_learn.dir/objects.a @CMakeFiles\mysql_learn.dir\objects1.rsp
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\mysql_learn.dir/objects.a -Wl,--no-whole-archive -o mysql_learn.exe -Wl,--out-implib,libmysql_learn.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mysql_learn.dir\linkLibs.rsp

@@ -1,9 +1,0 @@
-D:/Code_Tool/QT_project/Dashboard/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/Dashboard.dir
-D:/Code_Tool/QT_project/Dashboard/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
-D:/Code_Tool/QT_project/Dashboard/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
-D:/Code_Tool/QT_project/Dashboard/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
-D:/Code_Tool/QT_project/Dashboard/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install.dir
-D:/Code_Tool/QT_project/Dashboard/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
-D:/Code_Tool/QT_project/Dashboard/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
-D:/Code_Tool/QT_project/Dashboard/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/Dashboard_autogen_timestamp_deps.dir
-D:/Code_Tool/QT_project/Dashboard/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/Dashboard_autogen.dir

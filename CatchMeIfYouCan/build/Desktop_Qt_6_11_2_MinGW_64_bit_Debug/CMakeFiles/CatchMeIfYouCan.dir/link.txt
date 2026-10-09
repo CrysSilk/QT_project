@@ -1,3 +1,0 @@
-D:\Code_Tool\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\CatchMeIfYouCan.dir/objects.a
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\CatchMeIfYouCan.dir/objects.a @CMakeFiles\CatchMeIfYouCan.dir\objects1.rsp
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\CatchMeIfYouCan.dir/objects.a -Wl,--no-whole-archive -o CatchMeIfYouCan.exe -Wl,--out-implib,libCatchMeIfYouCan.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CatchMeIfYouCan.dir\linkLibs.rsp

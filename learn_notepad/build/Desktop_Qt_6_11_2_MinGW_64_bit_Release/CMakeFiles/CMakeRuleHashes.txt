@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-efeee96b6db89f767505959eb1f4c1b6 CMakeFiles/learn_notepad_autogen
-7608ef0b2e5fdeecfbf43f26447e4eb4 learn_notepad_autogen/timestamp

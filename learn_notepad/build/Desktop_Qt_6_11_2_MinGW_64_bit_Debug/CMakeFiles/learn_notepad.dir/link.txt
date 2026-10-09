@@ -1,3 +1,0 @@
-D:\Code_Tool\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\learn_notepad.dir/objects.a
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\learn_notepad.dir/objects.a @CMakeFiles\learn_notepad.dir\objects1.rsp
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\learn_notepad.dir/objects.a -Wl,--no-whole-archive -o learn_notepad.exe -Wl,--out-implib,liblearn_notepad.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\learn_notepad.dir\linkLibs.rsp

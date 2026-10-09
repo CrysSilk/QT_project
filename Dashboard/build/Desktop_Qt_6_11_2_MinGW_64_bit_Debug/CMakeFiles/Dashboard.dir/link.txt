@@ -1,3 +1,0 @@
-D:\Code_Tool\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\Dashboard.dir/objects.a
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\Dashboard.dir/objects.a @CMakeFiles\Dashboard.dir\objects1.rsp
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\Dashboard.dir/objects.a -Wl,--no-whole-archive -o Dashboard.exe -Wl,--out-implib,libDashboard.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Dashboard.dir\linkLibs.rsp

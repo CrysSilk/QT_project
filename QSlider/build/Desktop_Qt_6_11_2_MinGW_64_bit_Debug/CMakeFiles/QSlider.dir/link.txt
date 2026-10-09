@@ -1,3 +1,0 @@
-D:\Code_Tool\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\QSlider.dir/objects.a
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\QSlider.dir/objects.a @CMakeFiles\QSlider.dir\objects1.rsp
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\QSlider.dir/objects.a -Wl,--no-whole-archive -o QSlider.exe -Wl,--out-implib,libQSlider.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QSlider.dir\linkLibs.rsp

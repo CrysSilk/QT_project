@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="calculator/delete.bmp">images.bmp</file>
+    </qresource>
+</RCC>

@@ -1,6 +1,10 @@
-# Qt Creator 自动生成的构建目录
+# Qt Creator / CMake 构建输出
+build/
 build-*/
-*/*.user
+
+# Qt Creator 用户配置
+*.user
+*.user.*
 *.pro.user
 
 # 编译生成的目标文件

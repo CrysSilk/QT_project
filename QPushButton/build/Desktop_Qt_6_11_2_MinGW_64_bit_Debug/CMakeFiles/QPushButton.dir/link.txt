@@ -1,3 +1,0 @@
-D:\Code_Tool\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\QPushButton.dir/objects.a
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\QPushButton.dir/objects.a @CMakeFiles\QPushButton.dir\objects1.rsp
-D:\Code_Tool\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\QPushButton.dir/objects.a -Wl,--no-whole-archive -o QPushButton.exe -Wl,--out-implib,libQPushButton.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QPushButton.dir\linkLibs.rsp

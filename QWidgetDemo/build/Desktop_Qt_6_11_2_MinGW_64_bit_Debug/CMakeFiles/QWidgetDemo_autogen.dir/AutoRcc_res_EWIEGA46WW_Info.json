@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "D:/Code_Tool/QT_project/QWidgetDemo/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/QWidgetDemo_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Code_Tool/QT_project/QWidgetDemo/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Code_Tool/QT_project/QWidgetDemo/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Code_Tool/QT_project/QWidgetDemo",
+	"CMAKE_SOURCE_DIR" : "D:/Code_Tool/QT_project/QWidgetDemo",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "D:/Code_Tool/QT_project/QWidgetDemo/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/QWidgetDemo_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Code_Tool/QT_project/QWidgetDemo/images/lcon4.jpg",
+		"D:/Code_Tool/QT_project/QWidgetDemo/images/lcon3.jpg",
+		"D:/Code_Tool/QT_project/QWidgetDemo/images/lcon1.jpg",
+		"D:/Code_Tool/QT_project/QWidgetDemo/images/lcon2.jpg"
+	],
+	"LOCK_FILE" : "D:/Code_Tool/QT_project/QWidgetDemo/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/QWidgetDemo_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/Code_Tool/Qt/6.11.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Code_Tool/QT_project/QWidgetDemo/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/QWidgetDemo_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Code_Tool/QT_project/QWidgetDemo/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,22 @@
+# Qt Creator 自动生成的构建目录
+build-*/
+*/*.user
+*.pro.user
+
+# 编译生成的目标文件
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.app/
+Makefile*
+debug/
+release/
+
+# 临时文件和日志
+*.log
+.DS_Store
+Thumbs.db

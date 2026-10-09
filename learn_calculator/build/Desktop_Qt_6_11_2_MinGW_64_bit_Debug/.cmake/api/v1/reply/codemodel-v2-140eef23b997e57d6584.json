@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-579b43f777e7b89ba05a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learn_calculator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "learn_calculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn_calculator-Debug-b3e4cc28603a67b57bc7.json",
+					"name" : "learn_calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn_calculator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn_calculator_autogen-Debug-82d73a2e91a0e81cb630.json",
+					"name" : "learn_calculator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn_calculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn_calculator_autogen_timestamp_deps-Debug-b41bcadd9e77884d9c4b.json",
+					"name" : "learn_calculator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn_calculator_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn_calculator_qmlimportscan-Debug-66f87ae8d06f1a0f4a7d.json",
+					"name" : "learn_calculator_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code_Tool/QT_project/learn_calculator/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+		"source" : "D:/Code_Tool/QT_project/learn_calculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

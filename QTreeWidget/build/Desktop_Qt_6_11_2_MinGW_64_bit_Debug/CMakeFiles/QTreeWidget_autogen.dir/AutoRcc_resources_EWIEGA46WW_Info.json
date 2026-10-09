@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "D:/Code_Tool/QT_project/QTreeWidget/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/QTreeWidget_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Code_Tool/QT_project/QTreeWidget/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Code_Tool/QT_project/QTreeWidget/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Code_Tool/QT_project/QTreeWidget",
+	"CMAKE_SOURCE_DIR" : "D:/Code_Tool/QT_project/QTreeWidget",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "D:/Code_Tool/QT_project/QTreeWidget/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/QTreeWidget_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image008.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image011.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image002.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image007.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image009.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image003.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image016.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image012.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image004.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image010.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image005.jpg",
+		"D:/Code_Tool/QT_project/QTreeWidget/images/Image015.jpg"
+	],
+	"LOCK_FILE" : "D:/Code_Tool/QT_project/QTreeWidget/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/QTreeWidget_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/Code_Tool/Qt/6.11.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Code_Tool/QT_project/QTreeWidget/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/QTreeWidget_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Code_Tool/QT_project/QTreeWidget/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,3 @@
+D:\Code_Tool\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\QTreeWidget.dir/objects.a
+D:\Code_Tool\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\QTreeWidget.dir/objects.a @CMakeFiles\QTreeWidget.dir\objects1.rsp
+D:\Code_Tool\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\QTreeWidget.dir/objects.a -Wl,--no-whole-archive -o QTreeWidget.exe -Wl,--out-implib,libQTreeWidget.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QTreeWidget.dir\linkLibs.rsp

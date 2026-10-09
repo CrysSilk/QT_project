@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+080684ca8c2e19e24f9cbea93eb9d7c4 CMakeFiles/QWidgetDemo_autogen
+35788897e4d60ad592fa108e4a0e3e84 QWidgetDemo_autogen/EWIEGA46WW/qrc_res.cpp
+0480ef1b2ccdb5b79a55558a52c9aa80 QWidgetDemo_autogen/timestamp

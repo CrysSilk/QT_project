@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QTextEdit" name="textEdit"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_F">
+    <property name="title">
+     <string>文件(&amp;F)</string>
+    </property>
+    <addaction name="newAction"/>
+    <addaction name="openAction"/>
+    <addaction name="saveAction"/>
+    <addaction name="quitAction"/>
+   </widget>
+   <widget class="QMenu" name="menu_E">
+    <property name="title">
+     <string>编辑(&amp;E)</string>
+    </property>
+    <addaction name="copyAction"/>
+    <addaction name="pasteAction"/>
+    <addaction name="delAction"/>
+    <addaction name="wdAction"/>
+    <addaction name="allAction"/>
+    <addaction name="clearAction"/>
+   </widget>
+   <widget class="QMenu" name="menu_V">
+    <property name="title">
+     <string>查看(&amp;V)</string>
+    </property>
+    <widget class="QMenu" name="zoomAction">
+     <property name="title">
+      <string>缩放</string>
+     </property>
+     <addaction name="magAction"/>
+     <addaction name="shrAction"/>
+    </widget>
+    <addaction name="zoomAction"/>
+    <addaction name="barAction"/>
+   </widget>
+   <addaction name="menu_F"/>
+   <addaction name="menu_E"/>
+   <addaction name="menu_V"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="newAction">
+   <property name="text">
+    <string>新建(&amp;N)</string>
+   </property>
+  </action>
+  <action name="openAction">
+   <property name="text">
+    <string>打开(&amp;O)</string>
+   </property>
+  </action>
+  <action name="saveAction">
+   <property name="text">
+    <string>另存为(&amp;S)</string>
+   </property>
+  </action>
+  <action name="quitAction">
+   <property name="text">
+    <string>退出(&amp;Q)</string>
+   </property>
+  </action>
+  <action name="clearAction">
+   <property name="text">
+    <string>清空(&amp;R)</string>
+   </property>
+  </action>
+  <action name="allAction">
+   <property name="text">
+    <string>全选(&amp;A)</string>
+   </property>
+  </action>
+  <action name="delAction">
+   <property name="text">
+    <string>删除(&amp;D)</string>
+   </property>
+  </action>
+  <action name="copyAction">
+   <property name="text">
+    <string>复制(&amp;C)</string>
+   </property>
+  </action>
+  <action name="pasteAction">
+   <property name="text">
+    <string>粘贴(&amp;V)</string>
+   </property>
+  </action>
+  <action name="magAction">
+   <property name="text">
+    <string>放大(&amp;+)</string>
+   </property>
+  </action>
+  <action name="shrAction">
+   <property name="text">
+    <string>缩小(&amp;-)</string>
+   </property>
+  </action>
+  <action name="barAction">
+   <property name="text">
+    <string>状态栏</string>
+   </property>
+  </action>
+  <action name="wdAction">
+   <property name="text">
+    <string>撤回(&amp;Z)</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

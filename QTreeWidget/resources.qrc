@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/icons">
+        <file>images/Image002.jpg</file>
+        <file>images/Image003.jpg</file>
+        <file>images/Image004.jpg</file>
+        <file>images/Image005.jpg</file>
+        <file>images/Image007.jpg</file>
+        <file>images/Image008.jpg</file>
+        <file>images/Image009.jpg</file>
+        <file>images/Image010.jpg</file>
+        <file>images/Image011.jpg</file>
+        <file>images/Image012.jpg</file>
+        <file>images/Image015.jpg</file>
+        <file>images/Image016.jpg</file>
+    </qresource>
+</RCC>

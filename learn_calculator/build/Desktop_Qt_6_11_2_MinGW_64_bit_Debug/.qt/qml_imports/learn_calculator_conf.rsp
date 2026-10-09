@@ -1,0 +1,9 @@
+-rootPath
+D:/Code_Tool/QT_project/learn_calculator
+-cmake-output
+-output-file
+D:/Code_Tool/QT_project/learn_calculator/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/.qt/qml_imports/learn_calculator_conf.cmake
+-importPath
+D:/Code_Tool/QT_project/learn_calculator/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug
+-importPath
+D:/Code_Tool/Qt/6.11.2/mingw_64/qml
